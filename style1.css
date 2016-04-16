@@ -1,0 +1,63 @@
+/* Styles go here */
+
+body{
+  background-color:rgb(25,118,210);
+}
+.page{
+  width:600px;
+  height: 900px;
+}
+.header{
+  background-color:rgb(158,158,158);
+  width:500px;
+  height:50px;
+  margin:10px auto 10px auto;
+}
+.nav{
+  background-color:rgb(223,30,99);
+  width:500px;
+  height:40px;
+  margin:10px auto 10px auto;
+}
+.sidebar{
+  background-color:rgb(55,64,70);
+  width:150px;
+  height:300px;
+  
+  margin: 0px 0px 0px 50px;
+  display:inline-block;
+}
+.aside{
+  background-color:rgb(96,125,139);
+  width:100px;
+  height:50px;
+  margin:10px auto 10px auto;
+  
+}
+.main{
+  background-color:rgb(139,195,74);
+  width:330px;
+  height:300px;
+  margin: 0px 50px 0px 0px;
+  float:right;
+ 
+}
+.article{
+  background-color:rgb(255,193,7);
+  width: 250px;
+  height: 80px;
+  margin:10px auto 10px auto;
+}
+.footer{
+  background-color:rgb(158,158,158);
+  width:500px;
+  height:50px;
+  margin:10px auto 10px auto;
+}
+h2{
+  color:rgb(255,255,255);
+  text-align:center;
+  padding: 10px 10px 10px 10px;
+}
+
+
